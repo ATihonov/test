@@ -1,4 +1,4 @@
-package pages;
+package pages.eMag;
 
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;

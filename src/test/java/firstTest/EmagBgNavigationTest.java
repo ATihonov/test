@@ -3,7 +3,7 @@ package firstTest;
 import com.codeborne.selenide.Configuration;
 import org.junit.Test;
 import org.junit.jupiter.api.BeforeAll;
-import pages.EmagMainPage;
+import pages.eMag.EmagMainPage;
 import static com.codeborne.selenide.Selenide.*;
 
 public class EmagBgNavigationTest {
